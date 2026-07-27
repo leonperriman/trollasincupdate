@@ -1,2 +1,2 @@
 trollasincinfo:2
-trollasincstore:1
+trollasincstore:2
